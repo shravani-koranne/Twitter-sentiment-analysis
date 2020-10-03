@@ -25,6 +25,6 @@
   dplyr
   
   
-# Setiment Lexicon based approach
+# Sentiment Lexicon based approach
 
 ![screenshot](https://github.com/shravani-koranne/Twitter-sentiment-analysis/blob/main/Dashboard/lexicon.PNG)
