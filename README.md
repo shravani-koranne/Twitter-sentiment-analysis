@@ -8,23 +8,23 @@
  We will be evaluating the two food delivery apps in India Zomato and Swiggy in three locations Mumbai, New Delhi and Bangalore
  
 # Required Packages
-  ROAuth
-  
-  Rcurl
-  
-  httr
-  
-  twitteR
-  
-  tm
-  
-  stringer
-  
-  plyr
-  
-  dplyr
+    ROAuth
+
+    Rcurl
+
+    httr
+
+    twitteR
+
+    tm
+
+    stringer
+
+    plyr
+
+    dplyr
   
   
 # Sentiment Lexicon based approach
 
-![screenshot](https://github.com/shravani-koranne/Twitter-sentiment-analysis/blob/main/Dashboard/lexicon.PNG)
+                                   ![screenshot](https://github.com/shravani-koranne/Twitter-sentiment-analysis/blob/main/Dashboard/lexicon.PNG)
